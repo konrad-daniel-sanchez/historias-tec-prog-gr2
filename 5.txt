@@ -1,0 +1,1 @@
+Habia una vez un joven programador que su sueño era ser un payaso, como no logro ser un payaso hizo una broma en todos los computadores del mundo, para encontrar la borma hay que entrar al "cmd" y escribir "curl parrot.live", al hacer eso se revelara el mejoir chiste informarico, fin
